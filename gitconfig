@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = decleene94@gmail.com
+	name = John DeCleene
